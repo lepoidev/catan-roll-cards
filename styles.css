@@ -10,7 +10,7 @@ body {
 }
 
 #container-center {
-    padding-top: 25vh;
+    padding-top: 20vh;
     padding-bottom: auto;
     float: center;
     font-family: Arial, serif;
@@ -26,6 +26,8 @@ div.pair {
     color: black;
     border: 2px solid #555555;
     border-radius: 2px;
+    width: 20vw;
+    height: 10vw;
     -webkit-appearance: none;
     -webkit-transition-duration: 0.4s;
     /* Safari */
@@ -34,7 +36,7 @@ div.pair {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 4vh;
     margin: 4px 2px;
 }
 
